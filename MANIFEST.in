@@ -1,0 +1,2 @@
+recursive-include prace *
+global-exclude *pyc
